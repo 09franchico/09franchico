@@ -1,5 +1,6 @@
  Olá, sou Francisco Santos , programador Front End Jr e Futuro Especialista em Redes de Computadores.
- Cursando : Redes de Compuatadores.
+ 
+ Cursando : Redes de Computadores.
  
  Vamos nos conectar !
  
