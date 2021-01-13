@@ -4,7 +4,7 @@
  
  ✅Vamos nos conectar !
  
- Meu lema: "Nada é dificil,basta você querer aprender"
+ Meu lema: "Nada é difícil,basta você querer aprender"
  
  
 
