@@ -1,8 +1,8 @@
- Olá, sou Francisco Santos , programador Front End Jr e Futuro Especialista em Redes de Computadores.
+ ✅Olá, sou Francisco Santos , programador Front End Jr e Futuro Especialista em Redes de Computadores.
  
- Cursando : Redes de Computadores.
+ ✅Cursando : Redes de Computadores.💻😍
  
- Vamos nos conectar !
+ ✅Vamos nos conectar !
  
 
  facebook:https://www.facebook.com/xikinhow.santos/
