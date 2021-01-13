@@ -4,6 +4,9 @@
  
  ✅Vamos nos conectar !
  
+ Meu lema: "Nada é dificil,basta você querer aprender"
+ 
+ 
 
  facebook:https://www.facebook.com/xikinhow.santos/
  
