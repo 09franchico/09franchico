@@ -1,4 +1,4 @@
- ✅Olá, sou Francisco Santos , programador web Jr e Futuro Especialista em Redes de Computadores.
+ ✅Olá, sou Francisco Santos , programador Fullstack web Jr e Futuro Especialista em Redes de Computadores.
  
  ✅Cursando : Redes de Computadores.💻😍
  
