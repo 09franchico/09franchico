@@ -19,5 +19,4 @@
  ![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=09franchico&show_icons=true&theme=radical)
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-santos-339884201/)
- 
- linkedin: https://www.linkedin.com/in/francisco-santos-339884201/
+
