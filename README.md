@@ -8,5 +8,7 @@
  
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
  
  linkedin: https://www.linkedin.com/in/francisco-santos-339884201/
