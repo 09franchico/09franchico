@@ -1,6 +1,6 @@
- ✅Olá, sou Francisco Santos , programador Full Stack e Tecnologo em Redes de Computadores.
+ ✅Olá, sou Francisco Santos , programador Full Stack e aprendiz de IA.
  
- ✅Redes de Computadores.💻😍
+ ✅Formado em Redes de computadores e Desenvolvedor de Software.💻😍
  
  ✅Vamos nos conectar!
 
